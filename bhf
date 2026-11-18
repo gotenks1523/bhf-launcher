@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bleach Hollow Flash - Revival</title>
+  <style>
+    body {
+      background: #101018;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 90px 20px;
+    }
+    h1 { font-size: 36px; }
+    .play {
+      display: inline-block;
+      margin-top: 25px;
+      padding: 20px 45px;
+      background: #d62f37;
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+      font-size: 24px;
+      font-weight: bold;
+    }
+    .play:hover { background: #f0444b; }
+  </style>
+</head>
+<body>
+  <h1>BLEACH HOLLOW FLASH</h1>
+  <h2>REVIVAL</h2>
+  <p>Enter the world of Bleach!</p>
+  <a class="play" href="byond://192.58.129.70:5555">
+    PLAY NOW
+  </a>
+  <p>Requires BYOND to be installed.</p>
+</body>
+</html>
